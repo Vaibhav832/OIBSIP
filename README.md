@@ -5,8 +5,8 @@
 * [Deployment Link](https://vaibhav832.github.io/Calculator-Project/)
 
 # Task-2
-. [Source Code](https://github.com/Vaibhav832/OIBSIP/tree/main/Tribute%20Page)
-. [Deployment Link](https://vaibhav832.github.io/Tribute-Page/)
+* [Source Code](https://github.com/Vaibhav832/OIBSIP/tree/main/Tribute%20Page)
+* [Deployment Link](https://vaibhav832.github.io/Tribute-Page/)
 
 # Task-3
 * [Source Code](https://github.com/Vaibhav832/OIBSIP/tree/main/TO-DO-List)
